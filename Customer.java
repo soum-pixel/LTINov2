@@ -22,6 +22,7 @@ HIHIHIHI
 public void toString{
 return "Hello";
 }
-
+@Deprecate
+public void display{}
 
 }
