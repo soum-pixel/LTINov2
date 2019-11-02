@@ -6,4 +6,10 @@ class Customer
   {
     return custId;
   }
+  
+  public void set(custId)
+  {
+    println;
+  }
+  
 }
