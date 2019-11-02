@@ -6,4 +6,5 @@ class Customer
   {
     return custId;
   }
+  public void showCustomer(){}
 }
