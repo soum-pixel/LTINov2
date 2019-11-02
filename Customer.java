@@ -20,7 +20,7 @@ class Customer
 HIHIHIHI
 @Override
 public void toString{
-
+return "Hello";
 }
 
 
