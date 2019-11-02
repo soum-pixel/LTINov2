@@ -11,5 +11,5 @@ class Customer
   {
     println;
   }
-  
+  public void getCustomer(){}
 }
